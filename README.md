@@ -4,7 +4,7 @@ One-page, mobile-first portfolio for acting, comedy, post-production, AI and mot
 
 ## Edit the content
 
-Update `content.json` for the reel ID, caption, contact email, headshot and the clearly marked media placeholders. The featured reel is unlisted and embedded only after a visitor presses Play. Four other supplied videos were private, so their IDs are intentionally not included and their privacy settings were not changed.
+Update `content.json` for the reel ID, caption, contact email, headshot and the clearly marked media placeholders. The featured reel is unlisted and embedded only after a visitor presses Play. Keep private video IDs out of this public repository; no video visibility settings were changed.
 
 ## Publish
 
