@@ -1,0 +1,38 @@
+{
+  "person": {
+    "name": "Ryan Edley",
+    "title": "Performer & Creative",
+    "bio": "Actor, improviser and stand-up comic, with a parallel life as a post producer and creative director. Exploring the meeting point of performance, AI and motion. Joining the NFTS Virtual Production MA in January 2027."
+  },
+  "reel": {
+    "title": "Ryan Edley's Reel",
+    "videoId": "0_WGw7tTLcQ",
+    "published": "January 2024",
+    "duration": "2:22",
+    "visibility": "unlisted",
+    "thumbnail": "https://i.ytimg.com/vi/0_WGw7tTLcQ/maxresdefault.jpg",
+    "caption": "A compact introduction to the work, the characters and the person behind them."
+  },
+  "contact": {
+    "email": null,
+    "placeholder": "PLACEHOLDER — add Ryan's preferred public contact email here."
+  },
+  "placeholders": {
+    "headshot": "PLACEHOLDER — add an approved headshot image path here.",
+    "improv": "PLACEHOLDER — add a public improv clip and caption here.",
+    "standUp": "PLACEHOLDER — add a public stand-up clip and caption here.",
+    "aiMotion": "PLACEHOLDER — add an AI or motion work sample here.",
+    "additionalActing": "Four supplied clips are private and have been left out of the public page. Add a replacement or a public/unlisted video ID here only when ready."
+  },
+  "tools": [
+    "After Effects",
+    "Cinema 4D",
+    "Blender",
+    "ComfyUI",
+    "Higgsfield"
+  ],
+  "event": {
+    "name": "MIPCOM Cannes",
+    "dates": "12–15 October 2026"
+  }
+}
